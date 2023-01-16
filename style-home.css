@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    
+}
+
+body {
+	
+	background-color: #FBE8D7;
+	font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
+header div {
+	
+	background: #638c803d;
+	text-align: center;
+	
+}
+
+
+#banner {
+	
+	
+	width: 10%;
+    top: 10px;
+    align-items: center;
+	border-radius: 10px;
+	padding-right: 70px;
+
+
+	
+}
+
+.titulo1 {
+
+	background: #FBE8D7;
+	letter-spacing: -0.05px;
+	max-width: 400px;
+    margin: 40px auto;
+    
+}
+.principal{
+
+	
+	background: #FBE8D7;
+	letter-spacing: -0.05px;
+}
+
+main {
+
+	flex-wrap: wrap;
+    max-width: 900px;
+    width: 90%;
+    margin: 30px auto;
+    display: block;
+    gap: 24px;
+
+}
+
+section div {
+
+	letter-spacing: -0.05px;
+	border: #ff007F;
+	border-radius: 10px;
+}
+
+
+.titulo-principal {
+	
+	text-align: center;
+	color: #ff0da2;
+	letter-spacing: -0.05px;
+
+
+}
+
+.titulo-centralizado {
+	
+	padding-bottom: 15px;
+	color: #ff0da2;
+	letter-spacing: -0.05px;
+	text-align: center
+	
+	
+}
+
+
+p {
+	padding-top: 15px;
+	text-align: center;
+	color: #ff007F;
+}
+
+#missao {
+	padding-top: 15px;
+	letter-spacing: -0.05px;
+	font-size: 20px
+	
+}
+
+em strong {
+	color: #638C80;
+}
+
+.itens {
+	
+	letter-spacing: -0.05px;
+	font-style: italic
+	
+}
+
+.beneficios {
+
+	letter-spacing: -0.05px;
+	background: #FBE8D7;
+	padding: 20px;
+}
+
+ul {
+	
+	letter-spacing: -0.05px;
+	padding-bottom: 20px;
+	vertical-align: top;
+	
+	
+}
+
+ul li {
+	
+	color: #ff007F;
+	
+}
+
+.beneficios ul li {
+
+	padding: 20px;
+	height: 180px;
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border-radius: 18px;
+    border: 2px solid #ff66c4;
+    flex-wrap: wrap;
+}
+
+section img {
+
+	max-width: 100%;
+	height: auto;
+	
+}
+
+
+footer {
+	
+	
+    text-align: center;
+    background: #638c803d;
+	padding-top: 10px;
+	height: auto;
+    
+
+
+}
+
+footer img {
+    
+    width: 250px;
+    
+
+}
+
+.copyright {
+
+    margin: 20px;
+    font-size: 12px;
+    color: #ff007F;
+}
