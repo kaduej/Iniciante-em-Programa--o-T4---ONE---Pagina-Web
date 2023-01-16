@@ -46,5 +46,4 @@ Agradeço a Alura e Oracle pela oportunidade de participar desse programa de inc
   <img src="https://i.imgur.com/osfPD9P.png"  width=90%">
 </p>
 
-###### :pushpin: Você pode acessa-lo através desse <a href=''>Link!</a>
-###### :pushpin: Você pode acessar o projeto original através desse <a href=''>Link!</a>
+###### :pushpin: Você pode acessa-lo através desse <a href='https://kaduej.github.io/Iniciante-em-Programacao-T4-ONE-Pagina-Web/'>Link!</a>
